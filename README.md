@@ -15,7 +15,7 @@ This project automates the creation of passport-sized photos from regular images
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[(https://github.com/Sujal-Hawkeye/PhotoResize)]>
    ```
 2. Install dependencies:
    ```bash

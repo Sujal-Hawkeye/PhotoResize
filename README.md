@@ -37,6 +37,4 @@ output_folder = "path/to/output/folder"
 batch_process(input_folder, output_folder)
 ```
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
